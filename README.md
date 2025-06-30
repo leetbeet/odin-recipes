@@ -9,7 +9,6 @@ A recipe book app, displaying recipes with interactive navigation.
 ## Built With
 - HTML5  
 - CSS3  
-- JavaScript (event delegation, DOM manipulation)  
 
 ## Live Demo
 https://leetbeet.github.io/odin-recipes/
